@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`main 1`] = `
+"<div class=\\"language-java line-numbers-mode line-numbers-source\\"><div class=\\"highlight-lines\\"><br><br><br><br><div class=\\"highlighted\\">&nbsp;</div><br><div class=\\"highlighted\\">&nbsp;</div><br></div>// Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() >= ProcessList.CACHED_APP_MIN_ADJ && !opt.isFrozen()
+                && !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() < ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }<div class=\\"gist-meta-quote\\"><a href=\\"https://github.com/10cl/fwkdev/blob/android-13.0.0_r52/dev/src/frameworks/base/services/core/java/com/android/server/am/OomAdjuster.java#3125-L3131\\" target=\\"_blank\\">view raw</a></div><div class=\\"line-numbers-wrapper\\"><span class=\\"line-number\\">3125</span><br><span class=\\"line-number\\">3126</span><br><span class=\\"line-number\\">3127</span><br><span class=\\"line-number\\">3128</span><br><span class=\\"line-number\\">3129</span><br><span class=\\"line-number\\">3130</span><br><span class=\\"line-number\\">3131</span><br><span class=\\"line-number\\">3132</span><br></div></div><div class=\\"language-java line-numbers-mode line-numbers-source\\">// Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() >= ProcessList.CACHED_APP_MIN_ADJ && !opt.isFrozen()
+                && !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() < ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }<div class=\\"gist-meta-quote\\"><a href=\\"https://github.com/10cl/fwkdev/blob/android-13.0.0_r52/dev/src/frameworks/base/services/core/java/com/android/server/am/OomAdjuster.java#3125-L3131\\" target=\\"_blank\\">view raw</a></div><div class=\\"line-numbers-wrapper\\"><span class=\\"line-number\\">3125</span><br><span class=\\"line-number\\">3126</span><br><span class=\\"line-number\\">3127</span><br><span class=\\"line-number\\">3128</span><br><span class=\\"line-number\\">3129</span><br><span class=\\"line-number\\">3130</span><br><span class=\\"line-number\\">3131</span><br><span class=\\"line-number\\">3132</span><br></div></div><div class=\\"language-java line-numbers-mode line-numbers-source\\">// Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() >= ProcessList.CACHED_APP_MIN_ADJ && !opt.isFrozen()
+                && !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() < ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }<div class=\\"gist-meta-quote\\"><a href=\\"https://github.com/10cl/fwkdev/blob/android-13.0.0_r52/dev/src/frameworks/base/services/core/java/com/android/server/am/OomAdjuster.java#3125-L3131\\" target=\\"_blank\\">view raw</a></div></div><div class=\\"language-java line-numbers-mode\\"><div class=\\"highlight-lines\\"><div class=\\"highlighted\\">&nbsp;</div><div class=\\"highlighted\\">&nbsp;</div><br><br><br><br><br><br></div>// Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() >= ProcessList.CACHED_APP_MIN_ADJ && !opt.isFrozen()
+                && !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() < ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }<div class=\\"line-numbers-wrapper\\"><span class=\\"line-number\\">1</span><br><span class=\\"line-number\\">2</span><br><span class=\\"line-number\\">3</span><br><span class=\\"line-number\\">4</span><br><span class=\\"line-number\\">5</span><br><span class=\\"line-number\\">6</span><br><span class=\\"line-number\\">7</span><br><span class=\\"line-number\\">8</span><br></div></div><div class=\\"language-java line-numbers-mode\\"><div class=\\"highlight-lines\\"><br><br><div class=\\"highlighted\\">&nbsp;</div><br><br><br><br><br></div>// Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() >= ProcessList.CACHED_APP_MIN_ADJ && !opt.isFrozen()
+                && !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() < ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }<div class=\\"line-numbers-wrapper\\"><span class=\\"line-number\\">1</span><br><span class=\\"line-number\\">2</span><br><span class=\\"line-number\\">3</span><br><span class=\\"line-number\\">4</span><br><span class=\\"line-number\\">5</span><br><span class=\\"line-number\\">6</span><br><span class=\\"line-number\\">7</span><br><span class=\\"line-number\\">8</span><br></div></div><pre><code class=\\"language-java\\">        // Use current adjustment when freezing, set adjustment when unfreezing.
+        if (state.getCurAdj() &gt;= ProcessList.CACHED_APP_MIN_ADJ &amp;&amp; !opt.isFrozen()
+                &amp;&amp; !opt.shouldNotFreeze()) {
+            mCachedAppOptimizer.freezeAppAsyncLSP(app);
+        } else if (state.getSetAdj() &lt; ProcessList.CACHED_APP_MIN_ADJ) {
+            mCachedAppOptimizer.unfreezeAppLSP(app, oomAdjReason);
+        }
+    }
+</code></pre>
+"
+`;
