@@ -1,7 +1,7 @@
 {
   "name": "markdown-it-quote",
-  "version": "1.0.3",
-  "description": "use it to your articles with new standard definitions, give your code a home",
+  "version": "1.0.4",
+  "description": "enhances code fences with various functionalities",
   "repository": {
     "url": "10cl/markdown-it-quote",
     "type": "git"
